@@ -1,4 +1,4 @@
-## Implemetations-of-ML-Algorithms
+## Implemetations of Machine Learning Algorithms
 ### This repository is my collection of implementations for various machine learning algorithms.
 So far I have implemeted the following algorithms:
 <br>
