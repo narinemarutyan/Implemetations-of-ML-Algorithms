@@ -13,3 +13,5 @@ So far I have implemeted the following algorithms:
     - Naive Bayes
 <br>
     - Linear Discriminant Analysis
+<br>
+    - Hard Margin SVM by Primal Formulation
