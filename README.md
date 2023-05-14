@@ -2,6 +2,8 @@
 ### This repository is my collection of implementations for various machine learning algorithms.
 So far I have implemeted the following algorithms:
 <br>
+#### Supervised Learning
+<br>
     - K-nearest neighbors
 <br>
     - Linear Regression with exact solution
@@ -15,6 +17,8 @@ So far I have implemeted the following algorithms:
     - Linear Discriminant Analysis
 <br>
     - Hard Margin SVM by Primal Formulation
+<br>
+#### Unsupervised Learning
 <br>
     - DBSCAN
  <br>
