@@ -2,7 +2,9 @@
 ### This repository is my collection of implementations for various machine learning algorithms.
 So far I have implemeted the following algorithms:
 <br>
+<br>
 __Supervised Learning__
+<br>
 <br>
     - K-nearest neighbors
 <br>
@@ -18,7 +20,9 @@ __Supervised Learning__
 <br>
     - Hard Margin SVM by Primal Formulation
 <br>
+<br>
 __Unsupervised Learning__
+<br>
 <br>
     - DBSCAN
  <br>
