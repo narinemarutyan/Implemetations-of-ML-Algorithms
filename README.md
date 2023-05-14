@@ -15,3 +15,9 @@ So far I have implemeted the following algorithms:
     - Linear Discriminant Analysis
 <br>
     - Hard Margin SVM by Primal Formulation
+<br>
+    - DBSCAN
+ <br>
+    - Spectral Clustering
+    
+   
