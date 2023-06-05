@@ -22,6 +22,8 @@ __Supervised Learning__
 <br>
 __Unsupervised Learning__
 <br>
+    - GMM
+<br>
     - DBSCAN
  <br>
     - Spectral Clustering
