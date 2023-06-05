@@ -29,8 +29,7 @@ __Unsupervised Learning__
     - T-SNE
 <br>
     - MDS
-<br>
-<br>    
+<br> 
 __Deep Learning__
 <br>
     - Dense Network with Activations
