@@ -5,7 +5,6 @@ So far I have implemeted the following algorithms:
 <br>
 __Supervised Learning__
 <br>
-<br>
     - K-nearest neighbors
 <br>
     - Linear Regression with exact solution
@@ -23,13 +22,12 @@ __Supervised Learning__
 <br>
 __Unsupervised Learning__
 <br>
-<br>
     - DBSCAN
  <br>
     - Spectral Clustering
-    
-__Unsupervised Learning__
 <br>
+<br>    
+__Deep Learning__
 <br>
     - Dense Network with Activations
  <br>
