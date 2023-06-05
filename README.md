@@ -26,6 +26,10 @@ __Unsupervised Learning__
  <br>
     - Spectral Clustering
 <br>
+    - T-SNE
+<br>
+    - MDS
+<br>
 <br>    
 __Deep Learning__
 <br>
