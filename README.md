@@ -30,6 +30,7 @@ __Unsupervised Learning__
 <br>
     - MDS
 <br> 
+<br> 
 __Deep Learning__
 <br>
     - Dense Network with Activations
