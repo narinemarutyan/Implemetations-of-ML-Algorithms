@@ -28,4 +28,10 @@ __Unsupervised Learning__
  <br>
     - Spectral Clustering
     
+__Unsupervised Learning__
+<br>
+<br>
+    - Dense Network with Activations
+ <br>
+    
    
